@@ -1,0 +1,15 @@
+E:\ForwardTest\ForwardTest\bin\Debug\net6.0\ForwardTest.exe
+E:\ForwardTest\ForwardTest\bin\Debug\net6.0\ForwardTest.deps.json
+E:\ForwardTest\ForwardTest\bin\Debug\net6.0\ForwardTest.runtimeconfig.json
+E:\ForwardTest\ForwardTest\bin\Debug\net6.0\ForwardTest.dll
+E:\ForwardTest\ForwardTest\bin\Debug\net6.0\ForwardTest.pdb
+E:\ForwardTest\ForwardTest\obj\Debug\net6.0\ForwardTest.csproj.AssemblyReference.cache
+E:\ForwardTest\ForwardTest\obj\Debug\net6.0\ForwardTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\ForwardTest\ForwardTest\obj\Debug\net6.0\ForwardTest.AssemblyInfoInputs.cache
+E:\ForwardTest\ForwardTest\obj\Debug\net6.0\ForwardTest.AssemblyInfo.cs
+E:\ForwardTest\ForwardTest\obj\Debug\net6.0\ForwardTest.csproj.CoreCompileInputs.cache
+E:\ForwardTest\ForwardTest\obj\Debug\net6.0\ForwardTest.dll
+E:\ForwardTest\ForwardTest\obj\Debug\net6.0\refint\ForwardTest.dll
+E:\ForwardTest\ForwardTest\obj\Debug\net6.0\ForwardTest.pdb
+E:\ForwardTest\ForwardTest\obj\Debug\net6.0\ForwardTest.genruntimeconfig.cache
+E:\ForwardTest\ForwardTest\obj\Debug\net6.0\ref\ForwardTest.dll
